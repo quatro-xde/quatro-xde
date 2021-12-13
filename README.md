@@ -1,4 +1,4 @@
-### Allah abkah
+### Allah abkar
 
 - C# Developer
 - Learning HTML at the moment
